@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1546117537 source:c:\users\sam\desktop\portfolio 2\main.cpp
+	<iostream>
+	<ctime>
+
